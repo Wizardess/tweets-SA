@@ -1,0 +1,27 @@
+Hands on Project Proposal – Opinion Mining/Sentiment Analysis
+
+We will examine whether the sentiment timeline of Donald Trump’s COVID-19 tweets generalises to the sentiment of his twitter feed in the same time period.
+
+In just a few months, COVID-19 became a pandemic that set the world on its heels. Nations scrambled to coordinate an effective response as COVID-19 spread indiscriminately. Donald Trump, whose presidency of the United States has been characterized with inaccurate statements and incohesive positions on a variety of pertinent issues such as healthcare, worker protections, and social safety nets, has tweeted extensively about the progression of theCOVID-19 pandemic, sometimes contradicting his
+own tweets later in the day.
+
+We examine how his growing concern for COVID-19 affects his position on key issues pertaining to the coming election, such as the health of the economy, public perception of himself, and the medical response of key voter states.
+
+This project is therefore a classification problem which gives insight into the confidences and concerns, and thus the motivations for his actions, of the president as he prepares for the upcoming election.
+
+
+Analysis
+  Week 1
+  [ ] ** Get sentiment value for each tweet **
+        [ ] Select a political semantic lexicon?
+        [ ] Adjust the semantic lexicon
+  [ ] List of words differentiating covid-19 from normal
+  [ ] Divide dataset into weekly buckets
+  [ ] Get averages for covid-19 vs regular across each week
+  [ ] Generate some visualizations using the averages?
+  Week 2
+  [ ]
+
+Presentation
+  Week 3
+  [ ] Word heat map for covid-19
